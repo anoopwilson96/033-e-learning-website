@@ -1,21 +1,29 @@
-MIT License
+Proprietary Software License Agreement
 
 Copyright (c) 2024 Anoop Wilson
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Grant of License
+This software is licensed, not sold. [Your Name/Company] grants you a non-transferable, non-exclusive license to use the software solely for educational purposes.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Restrictions
+You may not: Distribute, sublicense, lease, rent, or otherwise transfer the software to any third party.
+Reverse engineer, de-compile, or disassemble the software.
+Modify, adapt, or create derivative works based on the software.
+Publish or distribute the software or any derivative works publicly.
+3. Ownership
+All rights, title, and interest in and to the software, including all intellectual property rights, are and shall remain the exclusive property of Anoop Wilson.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. Permitted Use for Students
+Students who are studying web development are permitted to use the software for educational purposes only. However, they are not allowed to publish or distribute the software or any derivative works publicly.
+
+5. Termination
+This license is effective until terminated. Your rights under this license will terminate automatically without notice from Anoop Wilson if you fail to comply with any term(s) of this license. Upon termination, you must cease all use of the software and destroy all copies, full or partial, of the software.
+
+6. Disclaimer of Warranties
+The software is provided “as is” without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. Anoop Wilson does not warrant that the software will be error-free or that defects will be corrected.
+
+7. Limitation of Liability
+In no event shall Anoop Wilson be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) arising out of the use of or inability to use the software, even if Anoop Wilson has been advised of the possibility of such damages.
+
+8. Governing Law
+This license shall be governed by and construed in accordance with the laws of the country, without regard to its conflict of laws principles.
