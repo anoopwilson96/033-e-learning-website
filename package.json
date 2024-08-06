@@ -1,0 +1,14 @@
+{
+  "name": "033-e-learning-website",
+  "version": "1.0.0",
+  "description": "e-learning website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anoop wilson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
